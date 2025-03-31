@@ -1,2 +1,9 @@
 print("Hola colega este es el primer proyecto!")
-input()
+input()eyeryeryery
+eryery
+ery
+ery
+ery
+ery
+ery
+c 
